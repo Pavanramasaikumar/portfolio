@@ -5,9 +5,6 @@ const Projects = () => {
   return (
     <div id="projects" className="pb-4 border-b border-neutral-900">
       <motion.h1 
-        // whileInView={{ opacity: 1, y: 0 }}
-        // initial={{ opacity: 0, y: -100 }}
-        // transition={{ duration: 1.0 }}
       className="my-20 text-4xl text-center">Projects🚀</motion.h1>
       <div>
       {PROJECTS.map((project, index) => (

@@ -1,6 +1,6 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project4 from "../assets/projects/project-4.jpg";
-import project6 from "../assets/projects/project-6.jpg";
+import project1 from "../assets/projects/project-1.png";
+import project4 from "../assets/projects/project-4.png";
+import project6 from "../assets/projects/project-6.png";
 
 export const HERO_CONTENT = `I'm a Computer Science student driven by a deep interest in AI-powered automation, web security, and modern software development. With hands-on experience across multiple internships and real-world projects, I specialize in building scalable, efficient, and secure solutions. I enjoy blending technical precision with creative thinking to solve complex problems and contribute to impactful digital systems.`
 export const ABOUT_TEXT = `I'm a Computer Science student driven by a deep interest in AI-powered automation, web security, and modern software development. With hands-on experience across multiple internships and real-world projects, I specialize in building scalable, efficient, and secure solutions. I enjoy blending technical precision with creative thinking to solve complex problems and contribute to impactful digital systems.`
