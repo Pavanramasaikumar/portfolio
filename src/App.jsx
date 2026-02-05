@@ -8,7 +8,6 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Resume from "./components/Resume";
 import Sidebar from "./components/Sidebar";
-import Codingprofiles from "./components/Codingprofiles";
 import Experience from "./components/Experience";
 const App = () => {
   return (
@@ -24,7 +23,6 @@ const App = () => {
         <Education/>
         <Experience/>
         <Projects />
-        <Codingprofiles/>
         <Resume />
         <Contact />
         <Footer />
