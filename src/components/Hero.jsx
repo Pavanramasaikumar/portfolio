@@ -23,7 +23,7 @@ const Hero = () => {
               animate="visible"
               className="pb-4 text-5xl font-thin tracking-tight lg:mt-1 lg:text-6xl"
             >
-              Pavan Rama Sai Kumar
+              Pavan Siriginidi
             </motion.h1>
             <motion.span
               variants={container(0.5)}
