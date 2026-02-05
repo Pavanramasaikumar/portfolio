@@ -10,21 +10,15 @@ const Navbar = () => {
         {/* <img className="w-10 mx-2" src={logo} alt="logo" /> */}
       </div>
       <div className="flex items-center justify-center gap-4 m-8 text-2xl">
-        <a href="http://www.linkedin.com/in/kameshkadimisetty" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/pavan-rama-sai-kumar-siriginidi-57b1a1372/" target="_blank" rel="noopener noreferrer">
           <FaLinkedin />
         </a>
-        <a href="https://github.com/Kamesh-Kadimisetty" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/pavanramasaikumar" target="_blank" rel="noopener noreferrer">
           <FaGithub />
         </a>
-        <a href="https://twitter.com/KameshK05" target="_blank" rel="noopener noreferrer">
-          <FaSquareXTwitter />
-        </a>
-        <a href="https://www.instagram.com/kamesh_kadimisetty/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/pavan_siriginidi/" target="_blank" rel="noopener noreferrer">
           <FaInstagram />
         </a>
-        {/* <a href="https://linktr.ee/KameshKadimisetty" target="_blank" rel="noopener noreferrer">
-          < SiLinktree/>
-        </a> */}
       </div>
     </nav>
   )

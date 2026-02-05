@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const Projects = () => {
   return (
-    <div id="projects" className="pb-4 border-b border-neutral-900">
+    <div id="projects" className="pb-4 border-b border-gray-300">
       <motion.h1 
       className="my-20 text-4xl text-center">Projects🚀</motion.h1>
       <div>

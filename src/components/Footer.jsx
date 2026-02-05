@@ -1,8 +1,8 @@
 const Footer = () => {
     return (
-      <div className="py-1 border-t border-neutral-900">
+      <div className="py-1 border-t border-gray-300">
         <div className="text-center">
-          <p className="my-2 text-sm text-gray-400">© 2025 Pavan Siriginidi. All rights reserved.</p>
+          <p className="my-2 text-sm text-gray-600">© 2025 Pavan Siriginidi. All rights reserved.</p>
         </div>
       </div>
     );

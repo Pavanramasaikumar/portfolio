@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const Experience = () => {
   return (
-    <div id="experience" className="pb-4 border-b border-neutral-900">
+    <div id="experience" className="pb-4 border-b border-gray-300">
       <motion.h1 
         whileInView={{ opacity: 1, y: 0 }}
         initial={{ opacity: 0, y: -100 }}

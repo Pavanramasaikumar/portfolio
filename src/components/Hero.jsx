@@ -13,7 +13,7 @@ const container = (delay) => ({
 
 const Hero = () => {
   return (
-    <div id="hero" className="pb-24 border-b border-neutral-900 lg:mb-35">
+    <div id="hero" className="pb-24 border-b border-gray-300 lg:mb-35">
       <div className="flex flex-wrap lg:flex-nowrap">
         <div className="w-full lg:w-1/2">
           <div className="flex flex-col items-center lg:items-start">
@@ -51,7 +51,7 @@ const Hero = () => {
               animate={{ x: 0, opacity: 1 }}
               transition={{ duration: 1, delay: 1.2 }}
               src={profilePic}
-              alt="Kamesh"
+              alt="Pavan"
               className="object-cover w-48 h-48 rounded-full lg:w-72 lg:h-72"
             />
           </div>
